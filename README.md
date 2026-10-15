@@ -19,7 +19,7 @@ Dataset: [Olist Brazilian E-Commerce (Kaggle)](https://www.kaggle.com/datasets/o
 - **DuckDB** (SQL) — querying CSV data directly for joins, window functions, and aggregations
 - **Python** (pandas, matplotlib, seaborn) — data cleaning, analysis, and visualization
 - **Jupyter Notebook** — end-to-end analysis environment
-- **Power BI** — interactive dashboard (overview, cohort analysis, churn drivers)
+- **Power BI** — 4-page interactive dashboard (overview, cohort analysis, churn drivers, at-risk customers)
 
 *Note: DuckDB was used for fast, CSV-native local analytics. Core SQL (joins, CTEs, window functions) is standard and portable to MySQL/PostgreSQL with minor syntax differences (e.g., date functions).*
 
