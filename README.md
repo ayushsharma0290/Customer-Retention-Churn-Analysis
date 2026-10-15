@@ -6,7 +6,7 @@ E-commerce businesses often focus heavily on acquiring new customers, but a leak
 
 ## Dashboard Preview
 ![Overview](Dashboard/Screenshots/Overview.png)
-![Cohort Analysis](Dashboard/screenshots/Cohort_Analysis.png)
+![Cohort Analysis](Dashboard/Screenshots/Cohort_Analysis.png)
 ![Churn Drivers](Dashboard/Screenshots/Churn_Driver.png)
 ![At-Risk Customers](Dashboard/Screenshots/At-Risk_Customer.png)
 
