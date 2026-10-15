@@ -1,0 +1,6 @@
+stage,customers,pct_of_total,drop_from_previous_%
+1st Order,93358.0,100.0,
+2nd Order,2801.0,3.0,97.0
+3rd Order,228.0,0.24,91.86
+4th Order,47.0,0.05,79.39
+5th Order,19.0,0.02,59.57

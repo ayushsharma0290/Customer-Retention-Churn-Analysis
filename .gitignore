@@ -1,0 +1,8 @@
+# Raw Olist data (download from Kaggle)
+olist_*.csv
+product_category_name_translation.csv
+archive*.zip
+
+# Misc
+.ipynb_checkpoints/
+__pycache__/
