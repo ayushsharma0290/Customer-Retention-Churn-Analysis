@@ -2,7 +2,7 @@
 ### Why are customers not coming back? — An analysis using the Olist Brazilian E-Commerce dataset
 
 ## Problem Statement
-E-commerce businesses often focus heavily on acquiring new customers, but a leaking retention funnel can silently erode growth. This project investigates **why customers don't return** after their first purchase, using order, delivery, review, and payment data from ~96,000 customers over a 2-year period (Jan 2017 – Aug 2018).
+E-commerce businesses often focus heavily on acquiring new customers, but a leaking retention funnel can silently erode growth. This project investigates **why customers don't return** after their first purchase, using order, delivery, review, and payment data from ~96,000 customers (93,358 with at least one delivered order, which is the base for all analysis below) over a 2-year period (Jan 2017 – Aug 2018).
 
 ## Dashboard Preview
 ![Overview](Dashboard/Screenshots/Overview.png)
